@@ -1,0 +1,13 @@
+[project]
+name = "demo-driver-plugin"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "matplotlib>=3.10.8",
+    "numpy-financial>=1.0.0",
+    "pandas>=2.3.3",
+    "streamlit>=1.53.1",
+    "yfinance>=1.1.0",
+]
