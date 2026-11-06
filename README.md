@@ -1,5 +1,7 @@
 # Corporate Valuation Application (DCF Model)
 
+🚀 **[Try the live app](https://petrescu-dcf.streamlit.app)** · 📝 [Write-up: Demystifying Intrinsic Valuation](https://9numbers0.substack.com/p/demystifying-intrinsic-valuation)
+
 ## Overview
 This is a comprehensive Discounted Cash Flow (DCF) valuation tool built with Python and Streamlit. It calculates the intrinsic value of publicly traded companies by pulling real-time financial data and projecting future cash flows. 
 
